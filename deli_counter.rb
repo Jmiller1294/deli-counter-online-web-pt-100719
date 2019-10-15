@@ -18,6 +18,5 @@ katz_deli << name
 puts "Welcome, #{name}. You are number #{katz_deli.length} in line."
 end
 
-def now_serving(name)
-  name.first
-end
+
+  
